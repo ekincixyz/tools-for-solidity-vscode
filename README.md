@@ -1,4 +1,34 @@
-# [Ackee Blockchain](https://ackee.xyz) Tools for Solidity ([Wake](https://getwake.io))
+# Tools for Solidity
+<a href="https://marketplace.visualstudio.com/items?itemName=AckeeBlockchain.tools-for-solidity" target="_blank" rel="noopener noreferrer">
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/visual-studio-marketplace/v/AckeeBlockchain.tools-for-solidity?label=Version&colorA=21262d&colorB=44cc11&style=flat">
+        <img src="https://img.shields.io/visual-studio-marketplace/v/AckeeBlockchain.tools-for-solidity?label=Version&colorA=f6f8fa&colorB=44cc11&style=flat" alt="Version">
+    </picture>
+</a>
+
+<a href="https://marketplace.visualstudio.com/items?itemName=AckeeBlockchain.tools-for-solidity" target="_blank" rel="noopener noreferrer">
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/visual-studio-marketplace/d/AckeeBlockchain.tools-for-solidity?label=Downloads&colorA=21262d&colorB=44cc11&style=flat">
+        <img src="https://img.shields.io/visual-studio-marketplace/d/AckeeBlockchain.tools-for-solidity?label=Downloads&colorA=f6f8fa&colorB=44cc11&style=flat" alt="Downloads">
+    </picture>
+</a>
+
+<a href="https://marketplace.visualstudio.com/items?itemName=AckeeBlockchain.tools-for-solidity" target="_blank" rel="noopener noreferrer">
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/visual-studio-marketplace/i/AckeeBlockchain.tools-for-solidity?label=Installs&colorA=21262d&colorB=44cc11&style=flat">
+        <img src="https://img.shields.io/visual-studio-marketplace/i/AckeeBlockchain.tools-for-solidity?label=Installs&colorA=f6f8fa&colorB=44cc11&style=flat" alt="Installs">
+    </picture>
+</a>
+
+<a href="https://marketplace.visualstudio.com/items?itemName=AckeeBlockchain.tools-for-solidity#review-details" target="_blank" rel="noopener noreferrer">
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/visual-studio-marketplace/r/AckeeBlockchain.tools-for-solidity?label=Rating&colorA=21262d&colorB=44cc11&style=flat">
+        <img src="https://img.shields.io/visual-studio-marketplace/r/AckeeBlockchain.tools-for-solidity?label=Rating&colorA=f6f8fa&colorB=44cc11&style=flat" alt="Rating">
+    </picture>
+</a>
+
+
+
 
 Tools for Solidity is an extension for Visual Studio Code, powered by [Wake](https://getwake.io), that offers most of the language server features and displays real-time results of vulnerability detectors and compiler in custom UI. Different graph types can be generated to better visualize the relations in the code.
 
